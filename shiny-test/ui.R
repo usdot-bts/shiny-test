@@ -3,6 +3,8 @@
 library(shiny)
 
 shinyUI(fluidPage(
+  tags$head(
+    tags$link(rel = "stylesheet", type = "text/css", href = "style.css")),
   
   # Application title
   titlePanel("Old Faithful Geyser Data"),

@@ -3,6 +3,7 @@ title: "quarto document test"
 format: 
   html:
     embed-resources: true
+runtime: shiny
 ---
 
 ## Quarto

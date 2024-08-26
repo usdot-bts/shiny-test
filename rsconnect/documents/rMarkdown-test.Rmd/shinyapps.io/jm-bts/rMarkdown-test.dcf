@@ -1,12 +1,12 @@
-name: shiny-test
-title: shiny-test
+name: rMarkdown-test
+title: rMarkdown-test
 username: jm-bts
 account: jm-bts
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 12521523
-bundleId: 9028168
-url: https://usdot-bts.shinyapps.io/shiny-test/
+appId: 12525889
+bundleId: 9028017
+url: https://usdot-bts.shinyapps.io/rMarkdown-test/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
