@@ -1,0 +1,12 @@
+name: shiny-test
+title: shiny-test
+username: jm-bts
+account: jm-bts
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12521523
+bundleId: 9026700
+url: https://usdot-bts.shinyapps.io/shiny-test/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
